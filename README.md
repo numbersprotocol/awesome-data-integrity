@@ -4,7 +4,12 @@ Useful resources for data integrity.
 
 ## Table of Contents
 
+* [Projects](#projects)
 * [Specifications](#specifications)
+
+## Projects
+
+* [News Provenance Project](https://www.newsprovenanceproject.com/) - Diminishing the spread of misinformation by empowering readers to make more informed, confident judgments about the news they see online. 
 
 ## Specifications
 
