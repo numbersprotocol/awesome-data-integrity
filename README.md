@@ -20,6 +20,8 @@ Please modify README in newly created feature-branch and submit pull request for
 
 ## Projects
 
+* [Starling Capture](https://github.com/numbersprotocol/starling-capture) - Android application with HTC Zion and Canon Camera Control Support for generating proofs for media assets. 
+* [Capture-Lite](https://github.com/numbersprotocol/capture-lite) - Application for generating proof metadata for images and videos. 
 * [News Provenance Project](https://www.newsprovenanceproject.com/) - Diminishing the spread of misinformation by empowering readers to make more informed, confident judgments about the news they see online. 
 * [Verification of Integrity and Consistency for Cloud Objects Storage (VICOS)](https://github.com/ibm-research/vicos)
 VICOS is a system for verification of integrity and consistency of cloud object storage.
