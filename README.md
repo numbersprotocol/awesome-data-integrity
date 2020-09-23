@@ -31,7 +31,7 @@ Command-line tool to generate seal files from directory tree using SEAL, COPY, V
 
 * [Interplantary File System (IPFS)](https://ipfs.io/#why) - Decentralized Storage Solution
 
-* [FileCoin](https://filecoin.io/) - Decentralized Storage Crypto storage soluton
+* [FileCoin](https://filecoin.io/) - Storage network with the power of built-in incentives
 
   * [Textile.io](https://textile.io/) - set of open source tools for IPFS and FileCoin
 
