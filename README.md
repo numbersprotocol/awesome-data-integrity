@@ -10,6 +10,7 @@ Useful resources for data integrity.
   - [Distributed Ledger Technology](#distributedledgertechnology)
 * [Specifications](#specifications)
 * [Algorithms](#Algorithms)
+* [Articles](#Articles)
 
 ## Contributing to the list!
 
