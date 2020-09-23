@@ -1,4 +1,4 @@
-## Awesome Data Integrity Content Policy
+# Awesome Data Integrity Content Policy
 
 Thanks for submitting your entry to Awesome Data Integrity!
 
