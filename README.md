@@ -11,6 +11,12 @@ Useful resources for data integrity.
 * [Specifications](#specifications)
 * [Algorithms](#Algorithms)
 
+## Contributing to the list!
+
+We welcome anyone to submit their new awesome-data-integrity content, but it will be accepted only if it meets our [content policy](https://github.com/numbersprotocol/awesome-data-integrity/blob/feature-update/POLICY.md).
+
+Please modify README in newly created feature-branch and submit pull request for review. Read [contributing guidelines](https://github.com/numbersprotocol/awesome-data-integrity/blob/feature-update/CONTRIBUTING.md) to learn how to do so.
+
 
 ## Projects
 
