@@ -56,4 +56,7 @@ Command-line tool to generate seal files from directory tree using SEAL, COPY, V
 
 ## Articles
 
+* [Understanding IPFS / FileCoin](https://medium.com/numbers-protocol/understanding-ipfs-filecoin-cc4b795db038)
+* [Securing our Data with Numbers Starling Capture](https://medium.com/numbers-protocol/securing-our-data-with-numbers-starling-capture-54dbad4bedc2)
+
 
