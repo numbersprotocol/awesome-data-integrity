@@ -6,7 +6,7 @@ Please ensure your pull request adheres to the following guidelines.
 
 * Search previous suggestions before making a new one to ensure no duplicates
 * If you just created something, wait a few weeks before submitting.
-* Revew the content policy to ensure your submission meets the requirements.
+* Revew the [content policy](https://github.com/numbersprotocol/awesome-data-integrity/blob/feature-update/POLICY.md) to ensure your submission meets the requirements.
 
 ## 2. Creating a submission
 
@@ -21,5 +21,5 @@ Make sure to create a **new feature branch** before editing README.
 
 **Thanks for your suggestions!**
 
-**Credit** This Contribution Guideline is based off [awesome-ipfs](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md)
+**Credit:** This Contribution Guideline is based off [awesome-ipfs](https://github.com/ipfs/awesome-ipfs/blob/master/CONTRIBUTING.md)
 Contribution Guideline
