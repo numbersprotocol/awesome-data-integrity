@@ -11,6 +11,7 @@ Useful resources for data integrity.
 * [Specifications](#specifications)
 * [Algorithms](#Algorithms)
 * [Articles](#Articles)
+* [Videos](#Videos)
 
 ## Contributing to the list!
 
@@ -61,5 +62,9 @@ Command-line tool to generate seal files from directory tree using SEAL, COPY, V
 
 * [Understanding IPFS / FileCoin](https://medium.com/numbers-protocol/understanding-ipfs-filecoin-cc4b795db038)
 * [Securing our Data with Numbers Starling Capture](https://medium.com/numbers-protocol/securing-our-data-with-numbers-starling-capture-54dbad4bedc2)
+
+## Vidoes
+
+* [Cleaning Up Misinformation Online](https://www.axios.com/axios-event-misinformation-74c58d14-4398-4ec7-89a1-99d99c86dab6.html)
 
 
